@@ -1,0 +1,2 @@
+# SpringMvcByXML
+使用xml配置的springmvc简单项目
